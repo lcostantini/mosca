@@ -45,6 +45,7 @@ The following environment variables are used when creating clients, so you can u
     MOSCA_USER
     MOSCA_PASS
     MOSCA_TIMEOUT
+    MOSCA_PORT
 
 ### New instance
 
